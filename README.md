@@ -1,6 +1,6 @@
 # Alamofire
 
-SwiftyBeaver 可以为 Xcode 控制台提供强大的日志记录功能，包括颜色（Xcode 9 以后都没有颜色输出了，但表情可以。）， 可自定义格式等等。
+Alamofire 是一个用 Swift 编写的 HTTP 网络库。
 
 ## 一、功能介绍
 
