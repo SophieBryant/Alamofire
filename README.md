@@ -24,7 +24,7 @@ SwiftyBeaver 可以为 Xcode 控制台提供强大的日志记录功能，包括
 * [AlamofireImage](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FAlamofire%2FAlamofireImage)：一个图片库，包括图像响应序列化器、UIImage和UIImageView的扩展、自定义图像滤镜、内存中自动清除和基于优先级的图像下载系统。
 * [AlamofireNetworkActivityIndicator](https://link.jianshu.com/?t=https%3A%2F%2Fgithub.com%2FAlamofire%2FAlamofireNetworkActivityIndicator):控制iOS应用的网络活动指示器。包含可配置的延迟计时器来帮助减少闪光，并且支持不受Alamofire管理的URLSession实例。
 
-##　二、安装
+## 二、安装
 
 ### CocoaPods
 
